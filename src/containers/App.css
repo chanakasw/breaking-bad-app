@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Heart Breaking Bad';
+  src: local('Heart Breaking Bad'), url('Heart Breaking Bad.otf') format('opentype');
+}
+
+h1 {
+  font-family: 'Heart Breaking Bad';
+  font-weight: 500;
+  color: #000000;
+}
